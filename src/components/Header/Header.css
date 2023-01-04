@@ -1,0 +1,20 @@
+.header {
+  height: 5.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.7rem;
+  background: #f55a5a;
+  margin-bottom: 4.5rem;
+}
+
+.header--img {
+  width: 2.4rem;
+}
+
+.header--title {
+  font-weight: 500;
+  font-size: 1.5rem;
+  letter-spacing: -0.075em;
+  color: #ffffff;
+}

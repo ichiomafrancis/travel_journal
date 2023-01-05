@@ -11,6 +11,8 @@
   font-size: 1.024rem;
   font-weight: 400;
   color: #2b283a;
+  border: 0.5rem solid #f2f2f2;
+  border-radius: 2rem;
 }
 
 .tour-list {

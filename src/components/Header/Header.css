@@ -6,6 +6,8 @@
   gap: 0.7rem;
   background: #f55a5a;
   margin-bottom: 4.5rem;
+  border-top-right-radius: 2rem;
+  border-top-left-radius: 2rem;
 }
 
 .header--img {
